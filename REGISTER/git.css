@@ -1,0 +1,43 @@
+h1 {
+    color: blue;
+
+}
+
+td:first-child {
+    width: 20px;
+}
+td:last-child {
+    width: 80px;
+}
+td {
+    padding: 20px;
+    border: 1px;
+}
+
+form {
+    max-width:  400px;
+     padding: 20px;
+}
+.text {
+    border: 5px solid  blue;
+    padding: 5px;
+    width: 300%;
+}
+
+input {
+    width: 300%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+
+}
+
+button {
+   background-color: blue; 
+   color: white;
+    border-radius: 4px;
+    border: none;
+}
+
+
